@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "quantumexchange:block/quantum_exchanger_sides",
+    "front": "quantumexchange:block/quark_quantum_exchanger_front",
+    "side": "quantumexchange:block/quantum_exchanger_sides"
+  }
+}

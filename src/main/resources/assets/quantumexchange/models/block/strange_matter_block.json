@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "quantumexchange:block/strange_matter_block"
+  }
+}

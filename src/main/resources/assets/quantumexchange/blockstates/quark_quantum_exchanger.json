@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "quantumexchange:block/quark_quantum_exchanger"
+    }
+  }
+}

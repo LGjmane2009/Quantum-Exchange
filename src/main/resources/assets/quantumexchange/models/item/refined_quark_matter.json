@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "quantumexchange:item/refined_quark_matter"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "quantumexchange:block/strange_matter_block"
+    }
+  }
+}

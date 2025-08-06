@@ -1,0 +1,25 @@
+{
+  "item.quantumexchange.strange_matter_circuit": "Strange Matter Circuit",
+  "item.quantumexchange.nuclear_matter_circuit": "Nuclear Matter Circuit",
+  "item.quantumexchange.quark_matter_circuit": "Quark Matter Circuit",
+  "item.quantumexchange.unrefined_strange_matter": "Unrefined Strange Matter",
+  "item.quantumexchange.unrefined_nuclear_matter": "Unrefined Nuclear Matter",
+  "item.quantumexchange.unrefined_quark_matter": "Unrefined Quark Matter",
+  "item.quantumexchange.refined_strange_matter": "Refined Strange Matter",
+  "item.quantumexchange.refined_nuclear_matter": "Refined Nuclear Matter",
+  "item.quantumexchange.refined_quark_matter": "Refined Quark Matter",
+
+  "block.quantumexchange.strange_matter_block": "Strange Matter Block",
+  "block.quantumexchange.nuclear_matter_block": "Nuclear Matter Block",
+  "block.quantumexchange.quark_matter_block": "Quark Matter Block",
+  "block.quantumexchange.basic_quantum_exchanger": "Quantum Exchanger",
+  "block.quantumexchange.strange_quantum_exchanger": "Strange Quantum Exchanger",
+  "block.quantumexchange.nuclear_quantum_exchanger": "Nuclear Quantum Exchanger",
+  "block.quantumexchange.quark_quantum_exchanger": "Quark Quantum Exchanger",
+  "block.quantumexchange.strange_matter_condenser": "Strange Matter Condenser",
+  "block.quantumexchange.nuclear_matter_condenser": "Nuclear Matter Condenser",
+  "block.quantumexchange.quark_matter_condenser": "Quark Matter Condenser",
+
+  "creativetab.quantumexchange.quantumexchange_items": "Quantum Exchange Items",
+  "creativetab.quantumexchange.quantumexchange_blocks": "Quantum Exchange Blocks"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "quantumexchange:block/nuclear_matter_block"
+    }
+  }
+}
